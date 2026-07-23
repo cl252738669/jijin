@@ -1,0 +1,12 @@
+# CodeBuddy 本地项目数据（automations / teams 等，仅本机有效，不上传远端）
+.codebuddy/
+
+# 操作系统垃圾文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器临时文件
+*.swp
+*~
